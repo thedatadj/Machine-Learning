@@ -3,3 +3,4 @@ Machine Learning projects of supervised and unsupervised learning, including reg
 
 * Binary classification
 * Regression
+* Fraud detection
